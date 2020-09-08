@@ -1,2 +1,5 @@
 # Assignment-INT3306
-Làm quen với git
+"This repository is belong to ```zzNuAzz```.
+  
+Under the collaboration of: 
+< list of your collaborators> "
